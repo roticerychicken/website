@@ -41,3 +41,37 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
+
+html {
+	-moz-text-size-adjust: 100%;
+	-webkit-text-size-adjust: 100%;
+	-ms-text-size-adjust: 100%;
+	text-size-adjust: 100%;
+	font-size: 1.5em;
+	padding-top: 1.5em;
+	padding-right: 1.5em;
+	padding-left: 1.5em;
+}
+h1 {
+	font-size: 3.375em;
+	font-weight: bold;
+	line-height: 1.5em;
+	text-align: center;
+}
+img {
+	display: block;
+	width: 10em;
+	height: 10em;
+	padding-bottom: 1em;
+	padding-top: 1em;
+	max-width: 100%;
+	max-height: 100%;
+	text-align: center;
+	margin: 0 auto;
+}
+
+p{
+	line-height: 1.5em;
+	text-indent: 1.5em;
+}
+
